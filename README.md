@@ -16,8 +16,6 @@ I'm a passionate web developer who loves crafting digital experiences. Here are 
 
 - **Testing and Debugging:** 🔍 Experience in writing unit tests and debugging code.
 
-- **CI/CD:** 🚀 Familiarity with CI/CD pipelines and tools like Jenkins and Travis CI.
-
 - **Problem-solving:** 💡 Strong problem-solving skills and a proactive approach.
 
 Feel free to explore my repositories and connect with me! Let's build something amazing together. 🚀✨
