@@ -5,10 +5,6 @@ I'm a passionate web developer who loves crafting digital experiences. Here are 
 ## Skills 🛠️
 
 - **Front-end Development:** 💻 Proficient in HTML5, CSS3, and JavaScript.
-  
-- **Frameworks & Libraries:** 📚 Experienced with React.js, Vue.js, Bootstrap, and more.
-
-- **Back-end Development:** 🚀 Skilled in Node.js, Express.js, Python, and Flask.
 
 - **Database Management:** 🗃️ Knowledgeable in SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Firebase).
 
