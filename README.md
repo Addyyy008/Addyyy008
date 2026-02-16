@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to Addy's Web Development Hub! 🌐✨
+# Hi there! 👋 Welcome to Aditya's Development Hub! 🌐✨
 
 I'm a passionate web developer who loves crafting digital experiences. Here are some skills I bring to the table:
 
